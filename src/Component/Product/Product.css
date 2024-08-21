@@ -1,0 +1,29 @@
+.product{
+    display: flex;
+    gap: 5px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+}
+
+.product-name{
+   width: 800px;
+   
+}
+.product-img img{
+    width: 180px;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 250px;
+    height: 30px;
+    border: 1px solid darkgreen;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 20px;;
+    margin-bottom: 20px;
+}
+h4{
+    color: green;
+}
